@@ -1,0 +1,13 @@
+1. Download the files Recrystallization_texture.m and odf_rolling_texture_regionE.mat and keep them in the same folder
+
+2. Install MTEX 
+
+3. Open MATLAB
+
+4. Go to Home; Import data;
+
+5. Import the file 'odf_rolling_texture_regionE.mat'. 
+
+6. Ensure that the variable name is kept as 'odf_rolling_texture_regionE' in the workspace
+
+7. Run the script 'Recrystallization_texture.m'
